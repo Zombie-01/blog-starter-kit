@@ -1,59 +1,19 @@
-# Зээлийн хүүг бууруулах хүрээнд авах арга хэмжээний тухай хэлэлцүүлэг
-
-УИХ-ын чуулганы **пүрэв гарагийн үдээс хойших нэгдсэн хуралдаанаар**  
-“Зээлийн хүүг бууруулах хүрээнд авах зарим арга хэмжээний тухай”  
-Улсын Их Хурлын тогтоолын төслийг хэлэлцэж байна.
-
+---
+title: "Preview Mode for Static Generation"
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+coverImage: "/assets/blog/preview/cover.jpg"
+date: "2020-03-16T05:35:07.322Z"
+author:
+  name: Joe Haddad
+  picture: "/assets/blog/authors/joe.jpeg"
+ogImage:
+  url: "/assets/blog/preview/cover.jpg"
 ---
 
-## УИХ-ын гишүүн Ж.Батжаргалын асуулт
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
-Дэлхийн улс орнуудад хадгаламжийн хүүг бууруулж, түүнд үндэслэн зээлийн хүү бага байдаг туршлага бий.  
-Эргээд тэр нь жижиг дунд бизнесийг хөгжүүлэх эх үүсвэр болж байна. Ялангуяа **Казахстан улс** энэ чиглэлд тодорхой алхам хийсэн гэж ярьж байна.  
-Манайд ямар бодлого чиглэл хэрэгжүүлэх боломжтой вэ?
+Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
 
----
+## Lorem Ipsum
 
-## Монголбанкны ерөнхийлөгч Б.Лхагвасүрэнгийн тайлбар
-
-Зээлийн хүүний бүтцийг харахад:
-
-- 60% нь **хадгаламжийн хүү** буюу эх үүсвэрийн өртөг
-- 18% нь банкны үйл ажиллагааны зардал
-- 12% нь дижитал хөгжүүлэлт буюу банкны хөрөнгө оруулалтын зардал
-- Үлдсэн хэсэг нь эрсдэлийн зардал
-
-Тэгэхээр хамгийн том зардал нь **эх үүсвэрийн өртөг** юм.
-
-Монгол Улсын банкны системийн хадгаламжийн хүүний дундаж нь **11-12%**  
-Үүн дээр банк үйл ажиллагааны зардлаа нэмснээр зээлийн хүү тогтдог.  
-Зээлийн дундаж хүү нь **17-18%** байна.
-
-Тиймээс **60%-ийн эх үүсвэрийн хүүг буулгавал зээлийн хүү буурна** гэсэн үг.
-
----
-
-## Нэмэлт тайлбар
-
-- Монгол Улсын арилжааны банкны санхүүжилт нийт эрэлтийнхээ **80%-ийг хангаж байна**.
-- Гаднаас нэмэлт санхүүжилт татах шаардлага зайлшгүй бий.
-- Засгийн газар бонд босгох, банкууд гаднаас эх үүсвэр татаж байна.
-
-Гадаад дахь хурцадмал байдлаас шалтгаалан эх үүсвэрийн хүүг нам дор байлгах боломж хязгаарлагдмал байна.
-
-- Хөгжлийн банк саяхан гаднаас **350 гаруй сая ам.долларын эх үүсвэр** татсан.
-- Хүү нь ойролцоогоор **9%-тай** байгаа.
-- Ийм өндөр хүүтэй гадна эх үүсвэр байгаа тул зээлийн хүүг огцом бууруулах боломж хязгаарлагдмал.
-
-Гэхдээ нөхцөл байдал зөөлөрвөл зээлийн хүү буурч болох юм.
-
-**Казахстан, Турк улсын зээлийн хүү манайхаас өндөр байдаг.**
-
----
-
-## Банкуудын ашиг
-
-- Хадгаламжийн хүү, зээлийн хүү хоёрын зөрүү нь банкны ашиг болдог.
-- Олон улсад банкны ашиг **3-4%** байдаг бол Монголд **4-5%** байна.
-
----
+Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
