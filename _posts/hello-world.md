@@ -1,6 +1,6 @@
 ---
-title: "Learn How to Pre-render Pages Using Static Generation with Next.js"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+title: "Далай ламын 90 насны төрсөн өдөр сүсэгтэн олонд яагаад чухал вэ?"
+excerpt: "Дээрхийн гэгээн 14 дүгээр Далай ламын **90 насны төрсөн өдрийг** угтан олон зуун сүсэгтэн Энэтхэгийн **Дармасала** хотод цуглараад байна."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
@@ -9,11 +9,60 @@ author:
 ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
+# Далай ламын 90 насны төрсөн өдөр сүсэгтэн олонд яагаад чухал вэ
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+**А.Номин**  
+**Дэлхийд | Өчигдөр**  
+**123 уншсан**
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+---
 
-## Lorem Ipsum
+## Далай ламын 90 насны төрсөн өдөр сүсэгтэн олонд яагаад чухал вэ?
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Дээрхийн гэгээн 14 дүгээр Далай ламын **90 насны төрсөн өдрийг** угтан олон зуун сүсэгтэн Энэтхэгийн **Дармасала** хотод цуглараад байна.
+
+Энэ **ням гарагт** болох түүний 90 насны ой сүсэгтэн олонд онцгой **чухал үйл явдал** болж буй. Учир нь Далай лам энэ ойгоороо **өөрийн хойд дүрийг тодруулна** хэмээн өмнө нь дурдсан юм.
+
+---
+
+## Хойд дүр тодруулах хүлээлт өндөр байна
+
+- Энэ долоо хоногт хойд дүр тодрох уу гэсэн **өндөр хүлээлт** үүсээд байна.
+- Төрсөн өдрийг угтан **лхагва гаргаас эхлэн** гурван өдөр үргэлжлэх **Төвөдийн шашны 15 дахь бага хурал** зохион байгуулагдаж байна.
+
+> **Даваа гарагт** болсон цуглааны үеэр Далай лам:  
+> _"Далай ламын институт тодорхой нэг хүрээ, зохицуулалтын дагуу цаашид үргэлжилнэ"_  
+> хэмээн мэдэгджээ. Гэвч дэлгэрэнгүй мэдээлэл өгөөгүй байна.
+
+---
+
+## Түүхэн амлалт ба шинэ мэдэгдэл
+
+- Далай лам 2011 онд:  
+  _"90 нас хүрмэгцээ уг институтийг үргэлжлүүлэх эсэхээ лам нар болон ард түмэнтэй зөвлөлдөн шийднэ"_ хэмээж байсан.
+- Харин энэ оны **гуравдугаар сард гаргасан номдоо** хойд дүр нь:  
+  _**“Хятадын гадна, чөлөөт ертөнцөд төрнө”_ **гэж бичсэн юм.
+
+---
+
+## Олон улсын анхаарал
+
+Хойд дүрийн асуудал нь зөвхөн Төвөдийн шашинтнууд бус:
+
+- **Хятад**
+- **Энэтхэг**
+- **АНУ**
+
+зэрэг улс орнуудын анхаарлын төвд байна.
+
+---
+
+## Далай ламын товч намтар
+
+- **1935 онд** Төвөдийн хөдөө тосгонд төрсөн.
+- **2 настайд** нь 13-р Далай ламын хойд дүрээр тодруулсан.
+- Бага наснаасаа Төвөдийн сүмд сурч, **буддын гүн ухааны докторын зэрэг** хамгаалсан.
+- **1959 онд** Хятадын эрх баригчдын дарамтаас зугтаж, **80,000 гаруй дагалдагчтайгаа Энэтхэг рүү дүрвэжээ**.
+- Энэтхэгийн Дармасала хотод **Төвөдийн түр Засгийн газар** байгуулсан.
+
+---
